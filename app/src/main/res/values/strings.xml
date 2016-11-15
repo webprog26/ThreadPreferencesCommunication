@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleThread</string>
+    <string name="enter_text">Enter text</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="no_saved_text">No saved text</string>
+</resources>
